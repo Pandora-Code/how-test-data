@@ -1,4 +1,8 @@
-### Campo de Texto (String)
+
+<p align="center">
+ <img width="200px" src="https://avatars.githubusercontent.com/u/87428056?s=200&v=4" align="center" alt="pandora-code" />
+ <h2 align="center">Campo de Texto</h2>
+</p>
 
 Esse é um tipo básico, porém dependendo dos requisitos do seu cliente ele pode ter regras a mais que vão gerar mais verificações. Vamos analisar algumas perguntas a respeito desse tipo de dado
 

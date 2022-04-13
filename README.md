@@ -33,7 +33,7 @@ Dado que com 17 anos não será aceito no sistema e 18 será aceito no sistema. 
 
 ## Tipos de dados
 
-### Campo de Texto
+### [Campo de Texto](https://github.com/Pandora-Code/how-test-data/blob/main/String.md)
 ### Campo Númerico
 ### Campo Data
 ### Campo de Confirmação
