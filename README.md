@@ -33,10 +33,10 @@ Dado que com 17 anos não será aceito no sistema e 18 será aceito no sistema. 
 
 ## Tipos de dados
 
-> :warning: -> são que estão em desenvolvimento 
+> :warning: -> são os artigos que estão em desenvolvimento 
 
 ### [Campo de Texto](https://github.com/Pandora-Code/how-test-data/blob/main/String.md)
-### Campo Númerico :warning:
+### [Campo Númerico :warning:](https://github.com/Pandora-Code/how-test-data/blob/main/Number.md)
 ### Campo Data :warning:
 ### Campo de Confirmação :warning:
 ### Email :warning:
